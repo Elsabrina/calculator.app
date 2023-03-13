@@ -4,4 +4,13 @@ class calculator
 	{
 		
 	}
+
+	static int Penambahan(int a, int b)
+	{
+		return a + b; 
+	}
+	static in Pengurangan(int a, int b,)
+	{
+		return a + b;
+	}
 }
